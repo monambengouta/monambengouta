@@ -107,12 +107,11 @@ Using R and Python for coding and analysing , aws for analysing
 
 ## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
 
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img width="80%" align="center" src ="profile-3d-contrib/profile-customize.svg"/>
 
 
 &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=monambengouta&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=false&area=true&hide_title=false"/>
 
-####Last Feature 
+#### Last Feature 
 
 <a href="https://mindstake.vercel.app">mindStack Crowdfunding </a>
 
