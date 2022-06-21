@@ -61,7 +61,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 #### DataMining and IA 
-Using R and Python for coding and analysing , aws for analysing
+Using R and Python.
      
 </td>
     <td>
@@ -96,33 +96,8 @@ Using R and Python for coding and analysing , aws for analysing
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 </br>
-
-
-
-
-
-
-</br>
-</br>
-
-## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
-
-
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=monambengouta&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=false&area=true&hide_title=false"/>
-
 #### Last Feature 
-
 <a href="https://mindstake.vercel.app">mindStack Crowdfunding </a>
-
-</br>
- 
- </br>
- 
-## &nbsp; &nbsp; &nbsp;🔥 My Motto
-
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+thread.init();..+if(+world.contains(innovation));....++state+%3D+innovation.login(monambengouta);....+state.process(EXPLORE_LEARN_CONTRIBUTE);else;....thread.CreateInnovation();"/>
 
 
 
